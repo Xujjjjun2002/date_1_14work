@@ -1,0 +1,83 @@
+@import '~antd/dist/antd.css';
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #edf0f5;
+  min-height: 100vh;
+  display: block;
+  flex-direction: row;
+  position: static;
+  left: 0px;
+  top: 0px;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.dr1 {
+  background-color: #edf0f5;
+  min-height: 50px;
+  display: block;
+  flex-direction: row;
+  position: static;
+  left: 0px;
+  top: 0px;
+  font-size: 100%;
+  color: black;
+  float:left;
+}
+.dr2 {
+  background-color: #edf0f5;
+  min-height: 50px;
+  display: block;
+  font-size: 100%;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  color: black;
+  float:left;
+}
+.dr3 {
+  background-color: #edf0f5;
+  min-height: 50px;
+  display: block;
+  font-size: 100%;
+  position: static;
+  left: 0px;
+  top: 0px;
+  color: black;
+  float:left;
+}
+.dr4 {
+  background-color: #edf0f5;
+  min-height: 50px;
+  display: block;
+  font-size: 100%;
+  position: static;
+  left: 0px;
+  top: 0px;
+  color: black;
+  float:left;
+}
+.dr5 {
+  background-color: #edf0f5;
+  min-height: 50px;
+  display: block;
+  font-size: 100%;
+  position: static;
+  left: 0px;
+  top: 0px;
+  color: black;
+  float:left;
+}
+.dr6 {
+  background-color: #edf0f5;
+  min-height: 50px;
+  display: block;
+  font-size: 100%;
+  position: static;
+  left: 0px;
+  top: 0px;
+  color: black;
+  float:left;
+}
